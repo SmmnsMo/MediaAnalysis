@@ -1,0 +1,1 @@
+Originally I intended for this to be the start of a media disinformation analysis project. The goal was to analyze the how different media outlets reported on current events. This unfortunately didn't pan out due to unforseen circumstances, however I still wanted the web scraper code to be available for future references. 
